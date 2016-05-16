@@ -1,5 +1,5 @@
 # # download and unzip data
-setwd('C:/Users/meng/Desktop/Coursera/EDA/')
+setwd('C:/Users/meng/ExData_Plotting1')
 if (!file.exists('data'))
         dir.create('data')
 fileUrl <-
